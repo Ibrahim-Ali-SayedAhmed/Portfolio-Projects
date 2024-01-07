@@ -70,6 +70,10 @@ I used in this stage Excel to perform the cleaning process for the 12 datasets, 
 -	Total Casual Duration (Min) and segmenting it with the three Bike types and Weekday
 
 
+![Picture1](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/ef5af404-ff6b-4301-9eaf-747fb595fe2c)
+
+
+
 
 ## Data visualization
 
