@@ -1,4 +1,4 @@
-Cyclistic Bike-Share Report
+                                                         Cyclistic Bike-Share Report
 
 ## About the company
 
@@ -107,20 +107,40 @@ I used Power BI to visualize my data findings and used the following visuals to 
 
 -	I found that member clients have total rides more than casual clients, although casual clients have longer ride duration than member clients.
 
+![Clients rides and duration](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/5106eda0-13f6-4ed2-961d-7ed9df6eaaef)
+
+
 -	Clients use bikes on weekdays more often than on weekends, in both total rides and time duration, which means we need to make sure that we have a proper number of bikes on weekdays, so they find them easily.
 -	The reason they use bikes on weekdays might be to go to school, work, etc.
 -	We may need to promote an offer to use our bikes on weekends.
+-	-	I embedded it as a custom tooltip to get more detailed information on this with different types  of clients and bikes.
+
+  ![Weekdays rides](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/dd51e490-2248-496f-a426-dba642ef281f)
+  ![Weekdays duration](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/9d0880b8-ab26-4157-8ff0-0c889aa1641f)
 
 -	For the overall rides, the most used bike type is the electric with a little more usage than the classic bike.
 -	The least used bike is the docked bike with a huge difference from the other 2 categories.
 -	For the overall duration, the most used bike is the classic followed by the electric followed by the docked bike.
 -	All bike categories are preferred to be used on weekdays than on weekends.
 
+  ![Bikes rides and duration](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/c1d34062-47bc-455b-a98f-d1d996e07e14)
+
+
 -	Member clients prefer to use only the classic and electric bikes respectively.
+
+![Member bikes](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/c142b9e2-74c6-4830-ad21-20a897cb05d8)
+  
 -	Casual clients prefer to use electric bikes in total rides but they use classic bikes for longer in the overall time duration.
 -	The docked bike comes as the second longest-used bike in time duration for casual clients more than the usage of electric bikes.
 
+![Casual bikes](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/06c680a4-8382-418b-8263-a0b90a8ce66d)
+
+
 -	The line graph over the year shows that it starts to increase from March towards the highest point in July, then goes down till it reaches the end of the year. This might show that bike-share is affected by seasonal changes, and we can promote offers in the seasons where there is a downward slope starting from August.
+
+![Total rides over year](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/a74b8584-2085-4a7f-9fd7-9a363e5943c9)
+
+
 
 ## Limitations
 
