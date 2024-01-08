@@ -1,5 +1,7 @@
                                                          Cyclistic Bike-Share Report
 
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/159e9d0b-4962-4864-8d98-e8d18722c24b/ReportSection?experience=power-bi
+
 ## About the company
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are tracked and locked into a network of stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time.
@@ -113,7 +115,7 @@ I used Power BI to visualize my data findings and used the following visuals to 
 -	Clients use bikes on weekdays more often than on weekends, in both total rides and time duration, which means we need to make sure that we have a proper number of bikes on weekdays, so they find them easily.
 -	The reason they use bikes on weekdays might be to go to school, work, etc.
 -	We may need to promote an offer to use our bikes on weekends.
--	-	I embedded it as a custom tooltip to get more detailed information on this with different types  of clients and bikes.
+-	I embedded it as a custom tooltip to get more detailed information on this with different types  of clients and bikes.
 
   ![Weekdays rides](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/dd51e490-2248-496f-a426-dba642ef281f)
   ![Weekdays duration](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/9d0880b8-ab26-4157-8ff0-0c889aa1641f)
