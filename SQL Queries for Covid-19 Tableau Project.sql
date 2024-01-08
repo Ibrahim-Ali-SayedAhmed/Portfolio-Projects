@@ -1,4 +1,6 @@
--- Queries used for Tableau project 
+## Dashboard link: https://public.tableau.com/app/profile/ibrahim.ali2761/viz/Covid-19TableauProject_16985316887680/Dashboard1
+    
+-- Queries used for the Tableau project 
 
 -- 1. Global Numbers of the Pandemic all over the world
 
