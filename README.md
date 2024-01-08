@@ -60,7 +60,7 @@ I used in this stage Excel to perform the cleaning process for the 12 datasets, 
 2.	Created a “Calendar lookup” table and connected it with the “Cyclistic Bike-Share 2022” data table through the “Start Date” field that is extracted from the “Start Time” field with the “Date” field.
 3.	Removed latitude and longitude columns as we are operating in the same city and can’t be used to create a map visual. 
 4.	Added a new column “Day of Week”, assuming that the week starts on Monday in both tables.
-5.	Added a column called “Weekdays” to show the weekdays (1~5) and weekends (6~7), which will be used further to show their frequency with clients and bikes.
+5.	Added a column called “Weekdays” to show the weekdays (1 to 5) and weekends (6 to 7), which will be used further to show their frequency with clients and bikes.
 6.	Added two calculated columns, one to show the Ride Duration in minutes “Ride Duration (Min), and the other to show the Ride Duration in hours “Ride Duration (Hrs).
 7.	Created the following metrics to be used in the data visualization and to figure out the business task later:
 -	Total Rides = 5.5 M
