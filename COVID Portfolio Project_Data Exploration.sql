@@ -1,3 +1,5 @@
+Dashboard link: https://public.tableau.com/app/profile/ibrahim.ali2761/viz/Covid-19TableauProject_16985316887680/Dashboard1
+
 USE covid_19;
 
 select * from covid_deaths order by 3,4;
