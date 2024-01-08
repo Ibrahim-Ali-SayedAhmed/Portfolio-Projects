@@ -146,6 +146,7 @@ I used Power BI to visualize my data findings and used the following visuals to 
 
 
 
+
 ## Limitations
 
 -	After coming through all these findings, I wish if had more data that supports my insights so we can understand our clients’ behavior.
