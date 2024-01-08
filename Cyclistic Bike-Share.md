@@ -141,6 +141,7 @@ I used Power BI to visualize my data findings and used the following visuals to 
 
 -	The area chart over the year shows that it starts to increase from March towards the highest point in July, then goes down till it reaches the end of the year. This might show that bike-share is affected by seasonal changes, and we can promote offers in the seasons where there is a downward slope starting from August.
 -	It also shows that total rides might correlate with the total ride duration, as there is a direct relationship as the graph suggests.
+  
 ![Total rides over year](https://github.com/Ibrahim-Ali-SayedAhmed/Portfolio-Projects/assets/140661247/a74b8584-2085-4a7f-9fd7-9a363e5943c9)
 
 
