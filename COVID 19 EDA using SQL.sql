@@ -1,6 +1,9 @@
 Data source link: https://drive.google.com/drive/folders/1v8D8T-JQ85Xtbkxo8_ff7KIAXtP1qw0e?usp=drive_link
 Dashboard link: https://public.tableau.com/app/profile/ibrahim.ali2761/viz/Covid-19TableauProject_16985316887680/Dashboard1
 
+
+	## This is the code I performed to make a quick Exploratory Data Analysis
+
 USE covid_19;
 
 select * from covid_deaths order by 3,4;
